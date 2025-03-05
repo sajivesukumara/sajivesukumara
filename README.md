@@ -12,14 +12,8 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: sajive.sukumar@gmail.com  
 - 😄 Pronouns: he/his
-- ⚡ Fun fact: 
-
-
-
-
-
-
-
+- ⚡ Fun fact:
+- 📚 Books : ReWork, Crucial Conversations, Atomic Habbits, Sapiens, ...
 
 
 
