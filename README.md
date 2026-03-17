@@ -20,3 +20,20 @@ Here are some ideas to get you started:
 [![Top Langs  ](https://github-readme-stats.vercel.app/api/top-langs/?username=sajivesukumara&layout=compact)](https://github.com/sajivesukumara/github-readme-stats)
 
 **sajivesukumara/sajivesukumara** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+<details>
+  <summary>Click me</summary>
+
+  ### Heading
+  1. Foo
+  2. Bar
+     * Baz
+     * Qux
+
+  ### Some Javascript
+  ```js
+  function logSomething(something) {
+    console.log('Something', something);
+  }
+  ```
+</details>
