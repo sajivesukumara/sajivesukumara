@@ -31,9 +31,16 @@ Here are some ideas to get you started:
      * Qux
 
   ### Some Javascript
-  ```js
-  function logSomething(something) {
-    console.log('Something', something);
+  ```python
+  def info(msg) {
+     print(f"   📋 Suggested Log: {test_log} (or .log.gz)")
+     printf(f"\n{'=' * 100}")
   }
   ```
+  <ul>
+    <li> <details><summary> Level-1.1 </summary> Level 1.1 of the hierarchy </details></li>
+    <li> <details><summary> Level-1.2 </summary> Level 1.2 of the hierarchy </details></li>
+  </ul>
 </details>
+
+[^1]: The detailed explanation.
